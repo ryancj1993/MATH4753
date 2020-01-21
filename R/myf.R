@@ -1,6 +1,6 @@
 #' Cube function
 #'
-#' Takes a vector, cubes it, and returns the new vector
+#' Takes a vector and returns a vector of cubed components
 #'
 #' @param x
 #'
